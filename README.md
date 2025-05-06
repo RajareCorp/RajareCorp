@@ -21,7 +21,7 @@ ___
   <li>🔬 Amateur de <strong>science</strong></li>
 </ul>
 </div>
-
+<!--
 <div style="flex: 1; text-align: center;">
   <iframe 
     title="Perpetualll - WITCH" 
@@ -32,7 +32,7 @@ ___
     style="aspect-ratio: 16 / 9; width: 100%; ">
   </iframe>
 </div>
-
+-->
 </div>
 
 ___

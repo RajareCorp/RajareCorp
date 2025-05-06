@@ -38,7 +38,7 @@ ___
 ___
 <img height="250em" src="https://www.shutterstock.com/image-vector/botanical-seamless-border-wildflowersherbstoadstools-mothscolorful-600nw-2479533779.jpg"/>
 
-Je développe principalement des interfaces **web**, je m'interresse à l'**OSINT** et un peu au **reverse engineering**. J'aime découpé et comprendre comment un jeu ou un programme fonctionne et y rajouté ma touche personnel ou encore exploité les ressources mis à ma disposition.
+Je développe principalement des interfaces **web**, je m'intérresse à l'**OSINT** et un peu au **reverse engineering**. J'aime découper et comprendre comment un jeu ou un programme fonctionne, y rajouter ma touche personnelle ou encore exploiter les ressources mises à ma disposition.
 
 🌒 La plus part de mes projets sont en privée.
 ___

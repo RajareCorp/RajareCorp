@@ -61,8 +61,10 @@ ___
 
 # 📊 Statistiques GitHub :
 <p align="center">
+     
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RajareCorp&show_icons=true&theme=apprentice )
 
-![GitHub User's stars](https://img.shields.io/github/stars/RajareCorp?style=flat-square)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RajareCorp&layout=donut&exclude_repo=Wakiki&theme=apprentice )](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- <img height="200em" src="https://github-readme-stats.vercel.app/api?username=RajareCorp&show_icons=true&theme=radical&hide_border=false&include_all_commits=false&count_private=true"/>
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajareCorp&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/> -->

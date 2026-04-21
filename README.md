@@ -68,11 +68,11 @@ Je gère et maintiens un **serveur domestique (Mini-PC)** qui me sert d'environn
 ### 🚀 Services & Applications
 | Catégorie | Outils | Description |
 | :--- | :--- | :--- |
-| **Gestion** | **Portainer** | Interface graphique pour la gestion de mes conteneurs Docker. |
-| **Médias** | **Jellyfin** | Serveur de streaming multimédia personnel (Alternative open-source à Plex). |
-| **Gaming** | **MCSManager** | Panneau de gestion pour l'hébergement de serveurs Minecraft. |
+| **Gestion** | **[Portainer](https://www.portainer.io)** | Interface graphique pour la gestion de mes conteneurs Docker. |
+| **Médias** | **[Jellyfin](https://jellyfin.org)** | Serveur de streaming multimédia personnel (Alternative open-source à Plex). |
+| **Gaming** | **[MCSManager](https://www.mcsmanager.com)** | Panneau de gestion pour l'hébergement de serveurs Minecraft. |
 | **Communauté** | **Bot & Site Web** | Instance Linux hébergeant le site web et le bot dédié à ma communauté Discord. |
-| **Sécurité** | **Pangolin** | Gestion de la sécurité réseau / Reverse Proxy. |
+| **Sécurité** | **[Pangolin](https://pangolin.net)** | Gestion de la sécurité réseau / Reverse Proxy. |
 | **Streaming** | **Site Perso** | Plateforme de diffusion vidéo développée sur mesure. |
 
 ___

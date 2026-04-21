@@ -40,7 +40,7 @@ ___
 
 Je développe principalement des interfaces **web**, je m'intérresse à l'**OSINT** et un peu au **reverse engineering**. J'aime découper et comprendre comment un jeu ou un programme fonctionne, y rajouter ma touche personnelle ou encore exploiter les ressources mises à ma disposition.
 
-🌒 La plus part de mes projets sont en privée.
+🌒 La plus part de mes **gros** projets sont en privée.
 ___
 
 # 💻 Compétences :
@@ -58,7 +58,24 @@ ___
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
  ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white)
 ___
+# 🏠 HomeLab :
 
+Je gère et maintiens un **serveur domestique (Mini-PC)** qui me sert d'environnement de test, d'expérimentation et de production pour divers services.
+
+### 🛡️ Couche Virtualisation
+* **Hyperviseur** : [Proxmox VE](https://www.proxmox.com/) – Gestion de machines virtuelles (VM) et de conteneurs (LXC).
+
+### 🚀 Services & Applications
+| Catégorie | Outils | Description |
+| :--- | :--- | :--- |
+| **Gestion** | **Portainer** | Interface graphique pour la gestion de mes conteneurs Docker. |
+| **Médias** | **Jellyfin** | Serveur de streaming multimédia personnel (Alternative open-source à Plex). |
+| **Gaming** | **MCSManager** | Panneau de gestion pour l'hébergement de serveurs Minecraft. |
+| **Communauté** | **Bot & Site Web** | Instance Linux hébergeant le site web et le bot dédié à ma communauté Discord. |
+| **Sécurité** | **Pangolin** | Gestion de la sécurité réseau / Reverse Proxy. |
+| **Streaming** | **Site Perso** | Plateforme de diffusion vidéo développée sur mesure. |
+
+___
 # 📊 Statistiques GitHub :
 <p align="center">
      

@@ -21,18 +21,6 @@ ___
   <li>🔬 Amateur de <strong>science</strong></li>
 </ul>
 </div>
-<!--
-<div style="flex: 1; text-align: center;">
-  <iframe 
-    title="Perpetualll - WITCH" 
-    src="https://www.youtube.com/embed/Qpg9HNaqbWo?feature=oembed" 
-    height="100" 
-    width="550" 
-    allowfullscreen 
-    style="aspect-ratio: 16 / 9; width: 100%; ">
-  </iframe>
-</div>
--->
 </div>
 
 ___
@@ -69,24 +57,10 @@ Je gère et maintiens un **serveur domestique (Mini-PC)** qui me sert d'environn
 | Catégorie | Outils | Description |
 | :--- | :--- | :--- |
 | **Gestion** | **[Portainer](https://www.portainer.io)** | Interface graphique pour la gestion de mes conteneurs Docker. |
+| **Backup BDD** | **[Portabase]((https://portabase.io)** | Portabase automatise les sauvegardes et les restaurations avec une expérience unifiée sur toutes les bases de données|
 | **Médias** | **[Jellyfin](https://jellyfin.org)** | Serveur de streaming multimédia personnel (Alternative open-source à Plex). |
-| **Gaming** | **[MCSManager](https://www.mcsmanager.com)** | Panneau de gestion pour l'hébergement de serveurs Minecraft. |
+| **Gaming** | **[Pelican](https://pelican.dev)** | Panneau de gestion pour l'hébergement de serveurs. |
 | **Communauté** | **Bot & Site Web** | Instance Linux hébergeant le site web et le bot dédié à ma communauté Discord. |
 | **Sécurité** | **[Pangolin](https://pangolin.net)** | Gestion de la sécurité réseau / Reverse Proxy. |
 | **Streaming** | **Site Perso** | Plateforme de diffusion vidéo développée sur mesure. |
-
-___
-# 📊 Statistiques GitHub :
-<p align="center">
-     
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RajareCorp&show_icons=true&theme=apprentice )
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RajareCorp&layout=donut&exclude_repo=Wakiki&theme=apprentice )](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- <img height="200em" src="https://github-readme-stats.vercel.app/api?username=RajareCorp&show_icons=true&theme=radical&hide_border=false&include_all_commits=false&count_private=true"/>
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajareCorp&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/> -->
-
-<!-- ![](https://nirzak-streak-stats.vercel.app/?user=RajareCorp&theme=dark&hide_border=false)<br/> -->
-<!-- </p> -->
-
 ___

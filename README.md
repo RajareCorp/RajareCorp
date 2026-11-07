@@ -57,7 +57,7 @@ Je gère et maintiens un **serveur domestique (Mini-PC)** qui me sert d'environn
 | Catégorie | Outils | Description |
 | :--- | :--- | :--- |
 | **Gestion** | **[Portainer](https://www.portainer.io)** | Interface graphique pour la gestion de mes conteneurs Docker. |
-| **Backup BDD** | **[Portabase]((https://portabase.io)** | Portabase automatise les sauvegardes et les restaurations avec une expérience unifiée sur toutes les bases de données|
+| **Backup BDD** | **[Portabase](https://portabase.io)** | Portabase automatise les sauvegardes et les restaurations avec une expérience unifiée sur toutes les bases de données|
 | **Médias** | **[Jellyfin](https://jellyfin.org)** | Serveur de streaming multimédia personnel (Alternative open-source à Plex). |
 | **Gaming** | **[Pelican](https://pelican.dev)** | Panneau de gestion pour l'hébergement de serveurs. |
 | **Communauté** | **Bot & Site Web** | Instance Linux hébergeant le site web et le bot dédié à ma communauté Discord. |
